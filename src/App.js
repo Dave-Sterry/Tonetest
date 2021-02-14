@@ -1,6 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import synth from './synth';
+import Synth from './components/synth';
+import React from 'react';
 
 function App() {
   return (
